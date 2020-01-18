@@ -1,0 +1,118 @@
+body{
+    background-color: rgb(73, 7, 40);
+}
+
+h1{
+    color: darkviolet;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    color: lavender;
+    font-size: 40px;
+    text-align: right;
+    padding-right: 180px;
+    border: 30p;
+    margin: 30px;
+}
+
+h3{
+    color: rgb(72, 72, 184);
+    font-size: 30px;
+    padding-left: 100px;
+    border: 30p;
+    margin: 30px;
+}
+
+h4{
+    color: cadetblue;
+    font-size: 20px;
+    padding-left: 100px;
+    border: 30p;
+    margin: 30px;
+}
+
+p{
+    color: rgb(214, 140, 214);
+    font-size: 15px;
+    padding: 10px;
+    border: 15px;
+    margin: 20px;
+    text-align: right;
+}
+
+ul a{
+    color: rgb(219, 103, 126);
+}
+
+.more{
+    color:rgb(214, 140, 214) ;
+    text-align: left;font-size: 15px;
+
+}
+
+ol li{
+    color:rgb(214, 140, 214) ;
+    font-size: 30px;
+    display: inline;
+}
+
+.intrests{
+    text-align: left;
+    padding-left: 100px;
+    border: 15px;
+    margin: 20px;
+}
+
+.in2{
+    text-align: left;
+    padding: 10px;
+    border: 15px;
+    margin: 20px;
+}
+
+.favsites{
+    text-align: left;
+    padding-left: 100px;
+    border: 15px;
+    margin: 20px;
+}
+
+.fav3{
+    text-align: left;
+    font-size: 15px;
+    padding: 10px;
+    border: 15px;
+    margin: 20px;
+}
+
+table, th, td{
+    color: rgb(214, 140, 214);
+    border: 5px black;
+    font-size: 19px;
+    padding: 10px;
+    border: 15px;
+    margin: 20px;
+}
+
+.plans{
+    text-align: left;
+    padding: 10px;
+    border: 15px;
+    margin: 20px;
+}
+
+.pln3{
+    text-align: left;
+    padding-left: 1.0px;
+    border: 15px;
+    margin: 20px;
+}
+
+ul, li{
+    color: rgb(72, 72, 184);
+    padding-left: 50px;
+    border: 15px;
+    margin: 20px;
+}
