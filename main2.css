@@ -1,0 +1,95 @@
+body{
+   background-color: black;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1{
+    color: rgb(150, 31, 150);
+    background-image: url(./assets/css\ photos/background-3.jpg);
+    background-size: 300px;
+    border: 2px;
+    padding: 25px;
+    font-size: 60px;
+    text-align: center;
+
+}
+
+h2{
+    color: white;
+    font-size: 40px;
+    width: 200px;
+    padding: 30px;
+    margin: 30px;
+    border: 10px;
+    border-color: snow;
+    border-style: solid;
+    background-color: gray;
+}
+
+ul a{
+    color: rgb(212, 172, 172);
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+
+a:active{
+    color: paleturquoise;
+}
+
+.intr2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.zion1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.zion2{
+    display: block;
+    margin-left: 1000px;
+    margin-right: auto;
+}
+
+.zion3{
+    display: block;
+    margin-left: auto;
+    margin-right: 1000px;
+    margin-top: 1000pxl
+}
+
+ol li{
+    color: white;
+    font-size: 20px;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    border: 15px;
+    border-color: white;
+    border-style: ridge;
+}
+
+.intrests{
+    color: white;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border: 15px;
+    border-color: white;
+    border-style: ridge;
+}
